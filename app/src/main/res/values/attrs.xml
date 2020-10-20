@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="particleStyle">
+        <attr name="circleradius" format="dimension" />
+        <attr name="particleNum" format="integer" />
+    </declare-styleable>
+</resources>
